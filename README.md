@@ -1,11 +1,15 @@
 # molecule
 rewritten for 3DS only
-molecule is base files for 3ds/~dsi~. its recommend if you wnat to create your luma/~hiya~ build cfw.
+molecule is base files for 3ds/~dsi~. its recommend if you dont want to create your luma/~hiya~ build cfw.
+
 each realease of molecule updating all files wuth luma/~hiya~
 ## why no dsi?
 first: i dont have it
+
 second: dsi is hard-to-build platform, so i dont want any problems in future
+
 also, this is fork of original project which dont update.
+
 plz dont ask for dsi support(it will be never created)
 
 # moleculeCFW files
