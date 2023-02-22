@@ -1,5 +1,6 @@
 # molecule
-rewriiten for 3DS only
+rewritten for 3DS only
+molecule is base files for 3ds/-dsi-
 
 # moleculeCFW files
 
