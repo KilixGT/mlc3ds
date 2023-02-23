@@ -29,10 +29,9 @@ plz dont ask for dsi support(it will be never created)
 8. Homebrew launcher
 9. 3dsident
 10. 3DShell
-11. Luma3ds updater
-13. Wumiibo helper
-14. Nimbus (pretendo)
-15. rVerse (luma mod)
+12. Wumiibo helper
+13. Nimbus (pretendo)
+14. rVerse (luma mod)
 
 ### !WARNING!
 
