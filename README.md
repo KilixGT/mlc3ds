@@ -1,6 +1,6 @@
 # molecule
 ## beta
-beta branch. use it for your mods or something. actually on beta branch i will try som experiments with luma cfw and mods for it. if something will be great and not buggy, i will add it maybe.
+beta branch. use it for your mods or something. actually on beta branch i will try some experiments with luma cfw and mods for it. if something will be great and not buggy, i will add it maybe.
 
 ## return to normal part
 
