@@ -2,6 +2,8 @@
 ## beta
 beta branch. use it for your mods or something. actually on beta branch i will try som experiments with luma cfw and mods for it. if something will be great and not buggy, i will add it maybe.
 
+## return to normal part
+
 rewritten for 3DS only
 molecule is base files for 3ds/~dsi~. its recommend if you dont want to create your luma/~hiya~ build cfw.
 
