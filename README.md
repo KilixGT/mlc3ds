@@ -27,6 +27,7 @@ plz dont ask for dsi support(it will be never created)
 12. Wumiibo helper
 13. Nimbus (pretendo)
 14. rVerse (luma mod)
+15. Twilight menu(ds emulation)
 
 ### !WARNING!
 
