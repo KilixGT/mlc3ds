@@ -12,7 +12,7 @@ also, this is fork of original project which dont update.
 
 plz dont ask for dsi support(it will be never created)
 
-# moleculeCFW files
+# molecule files
 
 1. FBI reloaded
 2. Anemone3ds
